@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.081b75fd.css",
+    "main.js": "/static/js/main.4b24f343.js",
+    "static/js/787.1258b713.chunk.js": "/static/js/787.1258b713.chunk.js",
+    "static/media/hero.mp4": "/static/media/hero.4de8520edaf58def629c.mp4",
+    "static/media/mapbg.jpg": "/static/media/mapbg.3871e3f158632690ac81.jpg",
+    "static/media/robo.webp": "/static/media/robo.7a626b6d74a6f336d201.webp",
+    "static/media/aboutimg.webp": "/static/media/aboutimg.26a090838aff1b9642ab.webp",
+    "static/media/car4.webp": "/static/media/car4.c2c689620ef862103629.webp",
+    "static/media/model.webp": "/static/media/model.898c47148cd6cfaf0bf3.webp",
+    "static/media/car5.webp": "/static/media/car5.3ccaf0b074b3d65889be.webp",
+    "static/media/car3.webp": "/static/media/car3.131fa105aade73664ef7.webp",
+    "static/media/car2.webp": "/static/media/car2.1518e347218dad3bbccb.webp",
+    "static/media/screen.webp": "/static/media/screen.29f31a4a271255d7f57e.webp",
+    "static/media/meter.webp": "/static/media/meter.723bb1d9d7f6c2888649.webp",
+    "static/media/building.webp": "/static/media/building.7914fce98d2d8d46c96d.webp",
+    "static/media/car.webp": "/static/media/car.d1f8068317899c308a8c.webp",
+    "index.html": "/index.html",
+    "main.081b75fd.css.map": "/static/css/main.081b75fd.css.map",
+    "main.4b24f343.js.map": "/static/js/main.4b24f343.js.map",
+    "787.1258b713.chunk.js.map": "/static/js/787.1258b713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081b75fd.css",
+    "static/js/main.4b24f343.js"
+  ]
+}
